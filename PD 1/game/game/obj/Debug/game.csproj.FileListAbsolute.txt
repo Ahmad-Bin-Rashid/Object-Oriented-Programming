@@ -1,0 +1,20 @@
+C:\Users\HP\Desktop\mine\OOP\Game Project\game\game\bin\Debug\game.exe.config
+C:\Users\HP\Desktop\mine\OOP\Game Project\game\game\bin\Debug\game.exe
+C:\Users\HP\Desktop\mine\OOP\Game Project\game\game\bin\Debug\game.pdb
+C:\Users\HP\Desktop\mine\OOP\Game Project\game\game\bin\Debug\EZInput.dll
+C:\Users\HP\Desktop\mine\OOP\Game Project\game\game\bin\Debug\EZInput.xml
+C:\Users\HP\Desktop\mine\OOP\Game Project\game\game\obj\Debug\game.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\mine\OOP\Game Project\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\mine\OOP\Game Project\game\game\obj\Debug\game.csproj.CopyComplete
+C:\Users\HP\Desktop\mine\OOP\Game Project\game\game\obj\Debug\game.exe
+C:\Users\HP\Desktop\mine\OOP\Game Project\game\game\obj\Debug\game.pdb
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\game\game\bin\Debug\game.exe.config
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\game\game\bin\Debug\game.exe
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\game\game\bin\Debug\game.pdb
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\game\game\bin\Debug\EZInput.dll
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\game\game\bin\Debug\EZInput.xml
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\game\game\obj\Debug\game.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\game\game\obj\Debug\game.csproj.CopyComplete
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\game\game\obj\Debug\game.exe
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\game\game\obj\Debug\game.pdb

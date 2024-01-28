@@ -1,7 +1,0 @@
-C:\Users\HP\Desktop\mine\Programming\2nd Semester\OOP Lab 1\business-application\business-application\bin\Debug\business-application.exe.config
-C:\Users\HP\Desktop\mine\Programming\2nd Semester\OOP Lab 1\business-application\business-application\bin\Debug\business-application.exe
-C:\Users\HP\Desktop\mine\Programming\2nd Semester\OOP Lab 1\business-application\business-application\bin\Debug\business-application.pdb
-C:\Users\HP\Desktop\mine\Programming\2nd Semester\OOP Lab 1\business-application\business-application\obj\Debug\business-application.csproj.AssemblyReference.cache
-C:\Users\HP\Desktop\mine\Programming\2nd Semester\OOP Lab 1\business-application\business-application\obj\Debug\business-application.csproj.CoreCompileInputs.cache
-C:\Users\HP\Desktop\mine\Programming\2nd Semester\OOP Lab 1\business-application\business-application\obj\Debug\business-application.exe
-C:\Users\HP\Desktop\mine\Programming\2nd Semester\OOP Lab 1\business-application\business-application\obj\Debug\business-application.pdb
