@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\mine\OOP\OOP Lab 3\challenge1\challenge1\bin\Debug\challenge1.exe.config
+C:\Users\HP\Desktop\mine\OOP\OOP Lab 3\challenge1\challenge1\bin\Debug\challenge1.exe
+C:\Users\HP\Desktop\mine\OOP\OOP Lab 3\challenge1\challenge1\bin\Debug\challenge1.pdb
+C:\Users\HP\Desktop\mine\OOP\OOP Lab 3\challenge1\challenge1\obj\Debug\challenge1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\mine\OOP\OOP Lab 3\challenge1\challenge1\obj\Debug\challenge1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\mine\OOP\OOP Lab 3\challenge1\challenge1\obj\Debug\challenge1.exe
+C:\Users\HP\Desktop\mine\OOP\OOP Lab 3\challenge1\challenge1\obj\Debug\challenge1.pdb

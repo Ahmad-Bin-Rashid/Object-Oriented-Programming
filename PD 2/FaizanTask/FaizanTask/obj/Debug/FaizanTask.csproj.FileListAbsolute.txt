@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\mine\OOP\OOP PD 2\FaizanTask\FaizanTask\bin\Debug\FaizanTask.exe.config
+C:\Users\HP\Desktop\mine\OOP\OOP PD 2\FaizanTask\FaizanTask\bin\Debug\FaizanTask.exe
+C:\Users\HP\Desktop\mine\OOP\OOP PD 2\FaizanTask\FaizanTask\bin\Debug\FaizanTask.pdb
+C:\Users\HP\Desktop\mine\OOP\OOP PD 2\FaizanTask\FaizanTask\obj\Debug\FaizanTask.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\mine\OOP\OOP PD 2\FaizanTask\FaizanTask\obj\Debug\FaizanTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\mine\OOP\OOP PD 2\FaizanTask\FaizanTask\obj\Debug\FaizanTask.exe
+C:\Users\HP\Desktop\mine\OOP\OOP PD 2\FaizanTask\FaizanTask\obj\Debug\FaizanTask.pdb

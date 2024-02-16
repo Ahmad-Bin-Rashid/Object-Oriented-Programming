@@ -1,0 +1,2 @@
+C:\Users\HP\Desktop\mine\OOP\OOP PD 2\FaizanLMS\FaizanLMS\obj\Debug\FaizanLMS.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\mine\OOP\OOP PD 2\FaizanLMS\FaizanLMS\obj\Debug\FaizanLMS.csproj.CoreCompileInputs.cache
