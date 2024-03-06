@@ -19,11 +19,11 @@ namespace business_application
             const string ownerPassword = "123456";
 
             char backOption;
-            string login_Option1 = "";
-            string login_Option2 = "";
-            string interface1_Option = "";
-            string interface2_Option = "";
-            string interface3_Option = "";
+            string login_Option1;
+            string login_Option2;
+            string interface1_Option;
+            string interface2_Option;
+            string interface3_Option;
             string username = "";
             string password = "";
             string passcode = "";

@@ -1,0 +1,14 @@
+F:\semester 2\OOPS Lab\week 7\oops\task4\task4\bin\Debug\task4.exe.config
+F:\semester 2\OOPS Lab\week 7\oops\task4\task4\bin\Debug\task4.exe
+F:\semester 2\OOPS Lab\week 7\oops\task4\task4\bin\Debug\task4.pdb
+F:\semester 2\OOPS Lab\week 7\oops\task4\task4\obj\Debug\task4.csproj.AssemblyReference.cache
+F:\semester 2\OOPS Lab\week 7\oops\task4\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+F:\semester 2\OOPS Lab\week 7\oops\task4\task4\obj\Debug\task4.exe
+F:\semester 2\OOPS Lab\week 7\oops\task4\task4\obj\Debug\task4.pdb
+C:\Users\HP\Desktop\mine\OOP\Lab 6\task4\task4\bin\Debug\task4.exe.config
+C:\Users\HP\Desktop\mine\OOP\Lab 6\task4\task4\bin\Debug\task4.exe
+C:\Users\HP\Desktop\mine\OOP\Lab 6\task4\task4\bin\Debug\task4.pdb
+C:\Users\HP\Desktop\mine\OOP\Lab 6\task4\task4\obj\Debug\task4.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\mine\OOP\Lab 6\task4\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\mine\OOP\Lab 6\task4\task4\obj\Debug\task4.exe
+C:\Users\HP\Desktop\mine\OOP\Lab 6\task4\task4\obj\Debug\task4.pdb

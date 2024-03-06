@@ -12,16 +12,30 @@ namespace task1
         public string duration;
         public int seats;
 
-        public List<Subject> degreeSubjects;
+        public List<Subject> degreeSubjects = new List<Subject>();
     
-        public DegreeProgram(string title, string duration, int seats)
+        public DegreeProgram(string title, string duration, int seats, List<Subject> subjects)
         {
             this.title = title;
             this.duration = duration;
             this.seats = seats;
-            this.degreeSubjects = new List<Subject>();
+            this.degreeSubjects = subjects;
         }
 
+        public string GetTitle()
+        {
+            return this.title;
+        }
+
+        public string GetDuration()
+        {
+            return this.duration;
+        }
+
+        public int GetSeats()
+        {
+            return this.seats;
+        }
 
         public void AddSubject(Subject s)
         {
@@ -33,7 +47,7 @@ namespace task1
         {
             foreach (var s in degreeSubjects)
             {
-                if (s.code == code)
+                if (s.GetCode() == code)
                 {
                     return true;
                 }
@@ -46,7 +60,7 @@ namespace task1
             int hours = 0;
             foreach (var s in degreeSubjects)
             {
-                hours += s.creditHours;
+                hours += s.GetCreditHour();
             }
             return hours;
         }

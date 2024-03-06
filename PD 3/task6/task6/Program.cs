@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using EZInput;
+using System.Windows.Input;
 
 namespace task6
 {
@@ -22,7 +23,7 @@ namespace task6
             PrintPlayer(player);
             while (true)
             {
-                if (Keyboard.IsKeyPressed(Key.LeftArrow))
+                if (Keyboard.IsKeyPressed(Key.LeftArrow)) 
                 {
                     ErasePlayer(player);
                     player.MoveLeft();

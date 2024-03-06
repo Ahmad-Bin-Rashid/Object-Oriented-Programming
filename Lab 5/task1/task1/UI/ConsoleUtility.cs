@@ -30,6 +30,11 @@ namespace task1
             Console.Clear();
         }
 
+        public static void PrintMessage(string message)
+        {
+            Console.WriteLine($"\n{message}");
+        }
+
         public static void PressKeyMessage()
         {
             Console.WriteLine("\nPress any key to Continue...");

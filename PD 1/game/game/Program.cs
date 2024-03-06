@@ -198,13 +198,36 @@ namespace game
         static int bufferBackupCount = 0;
         static int pX = 18, pY = 28;
 
-        static char e1Ch1 = (char)174, e1Ch2 = (char)175, e1Ch3 = (char)205, e1Ch4 = (char)206, e1Ch5 = (char)206, e1Ch6 = (char)47, e1Ch7 = (char)92;
+
+        static char e1Ch1 = '\u00AE';
+        static char e1Ch2 = '\u00AF';
+        static char e1Ch3 = '\u00CD';
+        static char e1Ch4 = '\u00CE';
+        static char e1Ch5 = '\u00CE';
+        static char e1Ch6 = '\u002F';
+        static char e1Ch7 = '\u005C';
+        
+        
+        static char e2Ch1 = 'W';
+        static char e2Ch2 = '\u0013';
+        static char e2Ch3 = '\u00E9';
+        
+        
+        static char e3Ch1 = '\u0001';
+        static char e3Ch2 = '\u00CD';
+        static char e3Ch3 = '\u00D8';
+        static char e3Ch4 = '\u00B2';
+        static char e3Ch5 = '\u00D7';
+        static char e3Ch6 = '\u00B6';
+        static char e3Ch7 = '\u00BA';
+
+        //static char e1Ch1 = (char)174, e1Ch2 = (char)175, e1Ch3 = (char)205, e1Ch4 = (char)206, e1Ch5 = (char)206, e1Ch6 = (char)47, e1Ch7 = (char)92;
         static int e1X = 0, e1Y = 0;
 
-        static char e2Ch1 = 'W', e2Ch2 = (char)19, e2Ch3 = (char)233;
+        //static char e2Ch1 = 'W', e2Ch2 = (char)19, e2Ch3 = (char)233;
         static int e2X = 0, e2Y = 0;
 
-        static char e3Ch1 = (char)1, e3Ch2 = (char)205, e3Ch3 = (char)216, e3Ch4 = (char)178, e3Ch5 = (char)215, e3Ch6 = (char)182, e3Ch7 = (char)186;
+        //static char e3Ch1 = (char)1, e3Ch2 = (char)205, e3Ch3 = (char)216, e3Ch4 = (char)178, e3Ch5 = (char)215, e3Ch6 = (char)182, e3Ch7 = (char)186;
         static int e3X = 0, e3Y = 0;
 
         static char door = '-';
@@ -1033,8 +1056,24 @@ namespace game
 
         static void PrintPlayer(bool check)
         {
-            char chR1 = (char)254, chR2 = (char)244, chR3 = (char)219, chR4 = (char)203, chR5 = (char)205, chR6 = (char)245, chR7 = (char)199;
-            char chL1 = (char)254, chL5 = (char)179, chL4 = (char)219, chL3 = (char)203, chL2 = (char)205, chL7 = (char)245, chL6 = (char)182;
+            //char chR1 = (char)254, chR2 = (char)244, chR3 = (char)219, chR4 = (char)203, chR5 = (char)205, chR6 = (char)245, chR7 = (char)199;
+            //char chL1 = (char)254, chL5 = (char)179, chL4 = (char)219, chL3 = (char)203, chL2 = (char)205, chL7 = (char)245, chL6 = (char)182;
+
+            char chR1 = '\u00FE';
+            char chR2 = '\u00F4';
+            char chR3 = '\u00DB';
+            char chR4 = '\u00CB';
+            char chR5 = '\u00CD';
+            char chR6 = '\u00F5';
+            char chR7 = '\u00C7';
+
+            char chL1 = '\u00FE';
+            char chL5 = '\u007C';
+            char chL4 = '\u00DB';
+            char chL3 = '\u00CB';
+            char chL2 = '\u00CD';
+            char chL7 = '\u00F5';
+            char chL6 = '\u00B6';
 
             if (check == true)
             {

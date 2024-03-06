@@ -13,7 +13,7 @@ namespace task6
             this.displayChar = displayChar;
             this.x = x;
             this.y = y;
-            score = 90;
+            score = 0;
         }
 
         public char displayChar;
