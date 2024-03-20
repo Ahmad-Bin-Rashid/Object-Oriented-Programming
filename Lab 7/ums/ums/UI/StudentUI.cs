@@ -13,13 +13,15 @@ namespace ums
         {
             Console.Write("Enter Student Name: ");
             string name = Console.ReadLine();
+            Console.Write("Enter Student Roll No: ");
+            int rollno = int.Parse(Console.ReadLine());
             Console.Write("Enter Student age: ");
             int age = int.Parse(Console.ReadLine());
             Console.Write("Enter Student Fsc Marks: ");
             float fsc = float.Parse(Console.ReadLine());
             Console.Write("Enter Student Ecat Marks: ");
             float ecat = float.Parse(Console.ReadLine());
-            Student s = new Student(name, age, fsc, ecat);
+            Student s = new Student(name, rollno, age, fsc, ecat);
             return s;
         }
 

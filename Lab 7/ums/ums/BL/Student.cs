@@ -9,6 +9,7 @@ namespace ums
     internal class Student
     {
         private string name;
+        private int rollno;
         private int age;
         private float fscMarks;
         private float ecatMarks;
@@ -18,9 +19,10 @@ namespace ums
         private DegreeProgram enrolledDegree;
         private List<Subject> registeredSubjects;
 
-        public Student(string name, int age, float fscMarks, float ecatMarks)
+        public Student(string name, int rollno, int age, float fscMarks, float ecatMarks)
         {
             this.name = name;
+            this.rollno = rollno;
             this.age = age;
             this.fscMarks = fscMarks;
             this.ecatMarks = ecatMarks;
@@ -30,6 +32,11 @@ namespace ums
         public string GetName()
         {
             return name;
+        }
+
+        public int GetRollno()
+        {
+            return rollno;
         }
 
         public int GetAge()

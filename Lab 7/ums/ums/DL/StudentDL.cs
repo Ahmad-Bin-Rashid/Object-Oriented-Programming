@@ -13,7 +13,7 @@ namespace ums
         {
             SqlConnection connection = new SqlConnection(connectionString);
             connection.Open();
-            string query = $"insert into Student (Name, Age, Fsc_Marks, Ecat_Marks) values ('{s.GetName()}', '{s.GetAge()}', '{s.GetFscMarks()}', '{s.GetEcatMarks()}')";
+            string query = $"insert into Student (Name, Student_ID, Age, Fsc_Marks, Ecat_Marks) values ('{s.GetName()}', '{s.GetRollno()}', '{s.GetAge()}', '{s.GetFscMarks()}', '{s.GetEcatMarks()}')";
 
             SqlCommand command = new SqlCommand(query, connection);
             int affectedRows = command.ExecuteNonQuery();
