@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\Lab 10\LabWork\LabWork\bin\Debug\LabWork.exe.config
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\Lab 10\LabWork\LabWork\bin\Debug\LabWork.exe
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\Lab 10\LabWork\LabWork\bin\Debug\LabWork.pdb
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\Lab 10\LabWork\LabWork\bin\Debug\BackendLibrary.dll
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\Lab 10\LabWork\LabWork\bin\Debug\BackendLibrary.pdb
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\Lab 10\LabWork\LabWork\obj\Debug\LabWork.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\Lab 10\LabWork\LabWork\obj\Debug\LabWork.Form1.resources
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\Lab 10\LabWork\LabWork\obj\Debug\LabWork.Properties.Resources.resources
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\Lab 10\LabWork\LabWork\obj\Debug\LabWork.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\Lab 10\LabWork\LabWork\obj\Debug\LabWork.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\Lab 10\LabWork\LabWork\obj\Debug\LabWork.csproj.CopyComplete
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\Lab 10\LabWork\LabWork\obj\Debug\LabWork.exe
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\Lab 10\LabWork\LabWork\obj\Debug\LabWork.pdb

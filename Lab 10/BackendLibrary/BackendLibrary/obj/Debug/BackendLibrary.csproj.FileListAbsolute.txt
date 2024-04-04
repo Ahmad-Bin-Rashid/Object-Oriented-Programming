@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\Lab 10\BackendLibrary\BackendLibrary\bin\Debug\BackendLibrary.dll
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\Lab 10\BackendLibrary\BackendLibrary\bin\Debug\BackendLibrary.pdb
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\Lab 10\BackendLibrary\BackendLibrary\obj\Debug\BackendLibrary.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\Lab 10\BackendLibrary\BackendLibrary\obj\Debug\BackendLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\Lab 10\BackendLibrary\BackendLibrary\obj\Debug\BackendLibrary.dll
+C:\Users\HP\Desktop\mine\OOP\Object-Oriented-Programming\Lab 10\BackendLibrary\BackendLibrary\obj\Debug\BackendLibrary.pdb
