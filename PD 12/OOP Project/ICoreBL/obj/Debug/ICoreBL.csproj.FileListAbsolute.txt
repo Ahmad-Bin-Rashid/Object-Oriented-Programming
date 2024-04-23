@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\ICoreBL\bin\Debug\ICoreBL.dll
+C:\Users\USER\source\repos\ICoreBL\bin\Debug\ICoreBL.pdb
+C:\Users\USER\source\repos\ICoreBL\obj\Debug\ICoreBL.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ICoreBL\obj\Debug\ICoreBL.dll
+C:\Users\USER\source\repos\ICoreBL\obj\Debug\ICoreBL.pdb
+C:\Users\USER\source\repos\ICoreBL\obj\Debug\ICoreBL.csproj.AssemblyReference.cache
